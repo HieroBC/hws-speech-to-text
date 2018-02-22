@@ -1,0 +1,24 @@
+{
+  "name": "hws-speech-to-text",
+  "version": "1.0.0",
+  "description": "This is my IBM Watson Services Studies repository for watson speech to text service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieroBC/watson-studies.git"
+  },
+  "author": "HieroBC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieroBC/watson-studies/issues"
+  },
+  "homepage": "https://github.com/HieroBC/watson-studies#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "watson-developer-cloud": "^3.0.6"
+  }
+}
